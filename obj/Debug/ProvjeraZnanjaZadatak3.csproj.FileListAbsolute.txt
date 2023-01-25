@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\ProvjeraZnanjaZadatak3\bin\Debug\ProvjeraZnanjaZadatak3.exe.config
+C:\Users\ucenik\source\repos\ProvjeraZnanjaZadatak3\bin\Debug\ProvjeraZnanjaZadatak3.exe
+C:\Users\ucenik\source\repos\ProvjeraZnanjaZadatak3\bin\Debug\ProvjeraZnanjaZadatak3.pdb
+C:\Users\ucenik\source\repos\ProvjeraZnanjaZadatak3\obj\Debug\ProvjeraZnanjaZadatak3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\ProvjeraZnanjaZadatak3\obj\Debug\ProvjeraZnanjaZadatak3.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\ProvjeraZnanjaZadatak3\obj\Debug\ProvjeraZnanjaZadatak3.exe
+C:\Users\ucenik\source\repos\ProvjeraZnanjaZadatak3\obj\Debug\ProvjeraZnanjaZadatak3.pdb
