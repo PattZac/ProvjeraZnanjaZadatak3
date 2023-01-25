@@ -13,13 +13,13 @@ namespace ProvjeraZnanjaZadatak3
             int Fibonaccijev = 0, Fibonaccijevm1 = 1, Fibonaccijevm2 = 0;
             Console.Write("Unesi broj: ");
             int n = Convert.ToInt32(Console.ReadLine());
-            for(int i=1; i<n; i++)
+            for(int i=2; i<n; i++)
             {
                 Fibonaccijev = Fibonaccijevm1 + Fibonaccijevm2;
                 Fibonaccijevm2 = Fibonaccijevm1;
                 Fibonaccijevm1 = Fibonaccijev;
             }
-            if (n == 1) { Fibonaccijev = 1; }
+            if (n == 2) { Fibonaccijev = 1; }
             Console.WriteLine(Fibonaccijev);
             Console.ReadLine();
         }
